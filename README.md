@@ -55,27 +55,16 @@ Le but de cet exercice est de vérifier que vous savez définir des variables, e
 solutuion:
 
       la valeur entière 36 à la variable x 
-
       x = 36
-
       la valeur entière résultat de 36 fois 36 à la variable produit ;
-
       produit = (x*x)
-
       la valeur entière résultat de la division entière de 36 par 5 à la variable div_entiere ;
-
       div_entiere = (36//5)
-
       la valeur entière résultat de 15 exposant 15 à la variable expo ;
-
       expo = (15**15)
-
       la valeur float 3.14159 à la variable pi ;
-
       pi = 3.14159
-
       la valeur chaîne de caractères "Bonjour" à la variable mon_texte.
-
       mon_texte = "Bonjour"
 
 ## Exercice 2)
