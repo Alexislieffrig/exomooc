@@ -141,6 +141,48 @@ solution:
     print(((x+y)*z)/(4*x))
     print(x**(-(1/2)))
 
+##Exercice 5)
+
+###Écrire un programme affichant les quatre lignes suivantes :
+
+    Hello World
+    Aujourd'hui
+    C'est "Dommage !"
+    Hum \o/
+
+solution:
+
+    print("Hello World")
+    print("Aujourd'hui")
+    print("C'est \"Dommage !\"")
+    print("Hum \o/")
+
+##Exercice 6)
+
+###Écrire un programme qui imprime la valeur du volume d’une sphère de rayon r, float lu en entrée:
+
+On rappelle que le volume d’une sphère de rayon r est donné par la formule :
+(4/3).pi.r^(3)
+
+solution: 
+
+    r = float(input())
+
+    volume_sphere = ((4/3)*3.1415*(r**(3)))
+    print(volume_sphere)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
