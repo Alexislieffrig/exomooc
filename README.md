@@ -273,10 +273,30 @@ solution:
     else:
         print("False")
 
+##Exercice 6)
 
+###Écrire un programme qui lit en entrée deux nombres entiers strictement positifs, et qui vérifie qu’aucun des deux n’est un diviseur de l’autre.
 
+Si tel est bien le cas, le programme imprime True. Sinon, il imprime False.
 
+solution:
 
+    x = int(input())
+    y = int(input())
+
+    if (x%y) == 0:
+        print("False")
+    elif (y%x) == 0:
+        print("False")
+    else:
+        print("True")
+
+###Exercice 7)
+
+###Contexte:
+Dans mon casino, ma roulette comporte 13 numéros de 0 à 12 comme montrés ci-dessous :
+
+![N|Solid](https://studio.fun-mooc.fr/asset-v1:ulb+44013+session03+type@asset+block/roulette.jpg)
 
 
 
