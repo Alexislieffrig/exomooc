@@ -259,9 +259,19 @@ autre solution:
     else: 
         print("Erreur")
 
+##Exercice 4)
 
+###Écrire un programme qui teste:
+la parité d’un nombre entier lu sur input et imprime True si le nombre est pair, False dans le cas contraire.
 
+solution:
 
+    x = float(input())
+
+    if (x%2) == 0:
+        print("True")
+    else:
+        print("False")
 
 
 
