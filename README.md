@@ -166,9 +166,10 @@ On rappelle que le volume d’une sphère de rayon r est donné par la formule :
 
 solution: 
 
+    from math import pi
     r = float(input())
 
-    volume_sphere = ((4/3)*3.1415*(r**(3)))
+    volume_sphere = ((4/3)*pi*(r**(3)))
     print(volume_sphere)
 
 
