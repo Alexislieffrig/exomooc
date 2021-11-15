@@ -2,7 +2,7 @@
 
 ![N|Solid](https://fundit.fr/sites/default/files/actors/1456-universite-libre-bruxelles-ulb.jpg)
 
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo-FUN-France_Universite_Numerique-vector.svg/1200px-Logo-FUN-France_Universite_Numerique-vector.svg.png)](https://nodesource.com/products/nsolid)
+![N|Solid](https://theme.zdassets.com/theme_assets/504801/469038bd4c780a92818fad61649d3aca5cc90d36.png)
 
 ## Présentation générale:
 ### Les exercices mooc
