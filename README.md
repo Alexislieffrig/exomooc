@@ -86,3 +86,27 @@ la moyenne arithmétique de deux nombres de type float lus en entrée (c'est-à-
 
 On rappelle que la moyenne arithmétique de deux nombres a et b est égale à {a+b}/{2}.
 
+solution:
+
+      x = int(input())
+      y = int(input())
+      print((x+y)/2)
+
+## Exercice 3)
+
+###Écrire un programme qui lit des valeurs de type float:
+pour a, b et c et qui affiche la valeur de d vérifiant l'égalité {a}/{b} = {c}/{d}.
+
+solution:
+
+    a = int(input())
+    b = int(input())
+    c = int(input())
+    d = (a*b)/c
+    print(d)
+
+
+
+
+
+
