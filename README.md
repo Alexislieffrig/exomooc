@@ -162,8 +162,52 @@ solution:
     print(volume_sphere)
 
 
+#Explication module 3:
 
+>Nous voici arrivés à la troisième phase d’apprentissage en ce qui concerne l’instruction if. Dans l’activité qui va suivre, nous vous proposons d’utiliser notre exerciseur UpyLaB pour tester de manière autonome plusieurs exercices qui demandent d’utiliser l’instruction if.
 
+##Exercice 1)
+
+###Écrire un programme qui lit:
+3 nombres entiers, et qui, si au moins deux d’entre eux ont la même valeur, imprime cette valeur (le programme n’imprime rien dans le cas contraire).
+
+solution: 
+
+    x = int(input())
+    y = int(input())
+    z = int(input())
+
+    if x==z:
+        print(x)
+    elif x==y:
+        print(x)
+    elif y==z:
+        print(y)
+
+##Exercice 2)
+
+###Écrire un programme qui, si temperature (entier lu sur input correspondant à la température maximale prévue pour aujourd’hui) est strictement supérieur à 0, teste si temperature est inférieur ou égal à 10:
+Auquel cas il imprime le texte :
+
+    Il va faire frais.
+
+Et qui, si temperature n’est pas supérieur à 0, imprime le texte :
+
+    Il va faire froid.
+
+Dans les autres cas, le programme n’imprime rien.
+
+solution:
+
+    temperature = int(input())
+
+    if temperature > 0:
+        if temperature <= 10:
+            print("Il va faire Frais")
+    elif temperature < 0:
+        print("Il va faire froid")
+    else:
+        None
 
 
 
