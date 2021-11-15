@@ -1,6 +1,6 @@
 # Info-F-101: Exercices mooc avec l'ULB
 
-![N|Solid](https://www.lesoir.be/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2017/03/16/node_86129/2665834/public/2017/03/16/B9711426728Z.1_20170316170204_000+GBP8N97HJ.1-0.jpg?itok=NO07OwKZ1489745574)
+![N|Solid](https://fundit.fr/sites/default/files/actors/1456-universite-libre-bruxelles-ulb.jpg)
 
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo-FUN-France_Universite_Numerique-vector.svg/1200px-Logo-FUN-France_Universite_Numerique-vector.svg.png)](https://nodesource.com/products/nsolid)
 
