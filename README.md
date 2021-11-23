@@ -294,6 +294,7 @@ solution:
 ###Exercice 7)
 
 ###Contexte du problème:
+
 Dans mon casino, ma roulette comporte 13 numéros de 0 à 12 comme montrés ci-dessous :
 
 ![N|Solid](https://studio.fun-mooc.fr/asset-v1:ulb+44013+session03+type@asset+block/roulette.jpg)
@@ -325,4 +326,48 @@ Entrées pour le pari du joueur :
 - 15 : le joueur parie sur la couleur rouge
 
 - 16 : le joueur parie sur la couleur noire.
+
+
+
+
+
+
+
+###exercice 7)
+
+
+Tétraèdre : (((2**(1/2))/12)*( a**3))
+
+Cube : a**3
+
+Octaèdre : ((2**(1/2)/3)*(a**3))
+
+Dodécaèdre : (((15+(7*(5**(1/2))))/4)*(a**3))
+
+Icosaèdre : (((5*(3+(5**(1/2))))/12)*(a**3))
+
+###Écrire un programme qui lit :
+
+la première lettre en majuscule du nom du polyèdre ("T", "C", "O", "D" ou "I"),
+
+la longueur de l’arête du polyèdre,
+
+et qui imprime le volume du polyèdre correspondant.
+
+Si la lettre lue ne fait pas partie des cinq initiales, le programme imprime le message "Polyèdre non connu".
+
+solution:
+
+    if x == 'T':
+    print((((2**(1/2))/12)*( a**3)))
+    elif x == 'C':
+        print(a**3)
+    elif x == 'O':
+        print(((2**(1/2)/3)*(a**3)))
+    elif x == 'D':
+        print((((15+(7*(5**(1/2))))/4)*(a**3)))
+    elif x == 'I':
+        print((((5*(3+(5**(1/2))))/12)*(a**3)))
+    elif x != 'T' or 'C' or 'O' or 'D' or 'I':
+        print("Polyedre non connu")
 
