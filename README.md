@@ -358,6 +358,11 @@ Si la lettre lue ne fait pas partie des cinq initiales, le programme imprime le 
 
 solution:
 
+    
+
+    x = str(input('inserrer une lettre:'))
+    a = float(input('inserrer un chiffre'))
+
     if x == 'T':
     print((((2**(1/2))/12)*( a**3)))
     elif x == 'C':
